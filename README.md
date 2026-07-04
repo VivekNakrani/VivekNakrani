@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vivek </h1>
-<h3 align="center">👀 Nice to meet you all! 👀</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 
@@ -12,9 +10,7 @@
 <p align="left"> <a href="https://twitter.com/vivek_nakrani_" target="blank"><img src="https://img.shields.io/twitter/follow/vivek_nakrani_?logo=twitter&style=for-the-badge" alt="vivek_nakrani_" /></a> </p>
 
 
-- 🌱 I’m currently learning **Blockchain, Smart Contracts, Web Development**
 
-- 💬 Ask me about **WEB 3.0, NFTs and Blockchain**
 
 - 📫 How to reach me **gig.vivekn@gmail.com**
 
